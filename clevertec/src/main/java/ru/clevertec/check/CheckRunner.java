@@ -1,5 +1,4 @@
 package ru.clevertec.check;
-//java --enable-preview --source 22 -cp src src/main/java/ru/clevertec/check/CheckRunner.java 1-3 2-4 discountCard=1111 balanceDebitCard=300
 
 public class CheckRunner {
     private static final String ERROR_BAD_REQUEST = "ERROR\nBAD REQUEST";
